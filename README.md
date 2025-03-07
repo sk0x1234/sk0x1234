@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @srinath koilakonda
+- 👋 Hi, I’m @srinath
 - 👀 I’m interested in Application security.
 - 🌱 I’m currently learning Threat Modelling..
 - 💞️ I’m looking to collaborate on All of the APPSEC topics..
-- 📫 How to reach me srinath.koilakonda@clover.com
+- 📫 How to reach me 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
